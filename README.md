@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ==================== تگ اختصاصی تایید مالکیت گوگل ==================== -->
+    <meta name="google-site-verification" content="ZSis9sIl7f9Y5bLiitlX7kVLf2O3kiJb2Ldg1e7Z3n8" />
+
+    <!-- ==================== کدهای سئو و متاتگ‌های اصلی ==================== -->
+    <title>پایگاه رسمی مهدی | mahdi.sh5910 - مقالات علمی و شبکه‌های اجتماعی</title>
+    <meta name="description" content="وب‌سایت رسمی مهدی (mahdi.sh5910). دسترسی به مقالات پژوهشی و علمی در Zenodo، پیج اینستاگرام، صفحه تلگرام و ارتباط مستقیم از طریق ایمیل.">
+    <meta name="keywords" content="mahdi.sh5910, مهدی, مقالات Zenodo, پژوهش‌های علمی, اینستاگرام mahdi.sh5910, تلگرام mahdish4">
+    <meta name="author" content="مهدی (mahdi.sh5910)">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    
+    <!-- شبکه‌های اجتماعی و اشتراک‌گذاری (Open Graph & Twitter Cards) -->
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="پایگاه رسمی مهدی | mahdi.sh5910">
+    <meta property="og:description" content="مرجع مقالات پژوهشی Zenodo و راه‌های ارتباطی با مهدی (mahdi.sh5910)">
+    <meta property="og:url" content="https://mahdish5910-png.github.io/mahdishariati.github.io/">
+    <meta property="og:site_name" content="mahdi.sh5910">
+    <meta property="og:locale" content="fa_IR">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="پایگاه رسمی مهدی | mahdi.sh5910">
+    <meta name="twitter:description" content="مرجع مقالات پژوهشی Zenodo و راه‌های ارتباطی با مهدی">
+
+    <!-- ==================== اسکیما گراف گوگل (Schema.org) برای سئوی برتر ==================== -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "مهدی",
+      "alternateName": "mahdi.sh5910",
+      "email": "mailto:mahdi.sh5910@gmail.com",
+      "url": "https://mahdish5910-png.github.io/mahdishariati.github.io/",
+      "sameAs": [
+        "https://instagram.com/mahdi.sh5910",
+        "https://t.me/mahdish4",
+        "https://zenodo.org/search?q=mahdi.sh5910%40gmail.com",
+        "https://doi.org/10.5281/zenodo.23375652",
+        "https://doi.org/10.5281/zenodo.23213109"
+      ]
+    }
+    </script>
+
+    <!-- استایل‌ها (طراحی مدرن، شیک و واکنش‌گرا) -->
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Vazirmatn', Tahoma, Arial, sans-serif;
+            background: linear-gradient(135deg, #1f1c2c, #928dab);
+            color: #ffffff;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            max-width: 460px;
+            width: 100%;
+            padding: 30px 20px;
+            text-align: center;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+        }
+        .profile-box {
+            position: relative;
+            width: 90px;
+            height: 90px;
+            margin: 0 auto 15px;
+        }
+        .profile-img {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background-color: #ffffff;
+            border: 3px solid #e1306c;
+            object-fit: cover;
+        }
+        h1 {
+            font-size: 22px;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .username {
+            font-size: 14px;
+            color: #ddd;
+            margin-bottom: 15px;
+            direction: ltr;
+        }
+        .bio-text {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #f0f0f0;
+            margin-bottom: 25px;
+        }
+        .section-title {
+            font-size: 14px;
+            color: #ffd700;
+            margin: 15px 0 10px;
+            text-align: right;
+            font-weight: bold;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+            padding-bottom: 5px;
+        }
+        .links-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 13px 18px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            color: #ffffff;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            line-height: 1.4;
+        }
+        .btn-instagram {
+            background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+        }
+        .btn-telegram {
+            background-color: #0088cc;
+        }
+        .btn-zenodo {
+            background-color: #0072b1;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        .btn-paper {
+            background-color: #2e7d32;
+            border: 1px solid rgba(255,255,255,0.2);
+            font-size: 13px;
+        }
+        .btn-email {
+            background-color: #2b2b2b;
+            border: 1px solid rgba(255,255,255,0.3);
+        }
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+        }
+        .footer-text {
+            margin-top: 25px;
+            font-size: 12px;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <!-- تصویر پروفایل -->
+    <div class="profile-box">
+        <img src="https://via.placeholder.com/100" alt="مهدی mahdi.sh5910" class="profile-img">
+    </div>
+
+    <!-- اطلاعات کاربری -->
+    <h1>مهدی</h1>
+    <div class="username">@mahdi.sh5910</div>
+    <p class="bio-text">پایگاه رسمی دسترسی به مقالات پژوهشی، راه‌های ارتباطی و شبکه‌های اجتماعی.</p>
+
+    <div class="links-container">
+        <!-- شبکه‌های اجتماعی -->
+        <a href="https://instagram.com/mahdi.sh5910" class="btn btn-instagram" target="_blank" rel="noopener">
+            📲 پیج اینستاگرام (mahdi.sh5910)
+        </a>
+
+        <a href="https://t.me/mahdish4" class="btn btn-telegram" target="_blank" rel="noopener">
+            💬 صفحه تلگرام (mahdish4@)
+        </a>
+
+        <!-- بخش مقالات علمی Zenodo -->
+        <div class="section-title">📚 مقالات پژوهشی و پژوهش‌ها (Zenodo)</div>
+
+        <a href="https://doi.org/10.5281/zenodo.23375652" class="btn btn-paper" target="_blank" rel="noopener">
+            📄 مقاله علمی اول (DOI: 10.5281/zenodo.23375652)
+        </a>
+
+        <a href="https://doi.org/10.5281/zenodo.23213109" class="btn btn-paper" target="_blank" rel="noopener">
+            📄 مقاله علمی دوم (DOI: 10.5281/zenodo.23213109)
+        </a>
+
+        <a href="https://zenodo.org/search?q=mahdi.sh5910%40gmail.com" class="btn btn-zenodo" target="_blank" rel="noopener">
+            🔍 جستجوی کلی تمام مقالات در Zenodo
+        </a>
+
+        <!-- ایمیل مستقیم (باز شدن نرم‌افزار ایمیل) -->
+        <a href="mailto:mahdi.sh5910@gmail.com" class="btn btn-email">
+            ✉️ ارسال ایمیل (mahdi.sh5910@gmail.com)
+        </a>
+    </div>
+
+    <div class="footer-text">
+        © تمامی حقوق متعلق به mahdi.sh5910 می‌باشد.
+    </div>
+</div>
+
+</body>
+</html>
